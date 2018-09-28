@@ -1,0 +1,9 @@
+/* Tous les H1 en rouge */
+h1{
+  color: red
+}
+
+/* Balises avec cette classe */
+.green-text{
+  color: green;
+}
